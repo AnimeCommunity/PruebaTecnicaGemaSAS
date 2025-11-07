@@ -1,0 +1,10 @@
+CREATE DATABASE gema;
+USE gema;
+
+CREATE TABLE usuarios (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  email VARCHAR(100) NOT NULL,
+  nombre VARCHAR(50),
+  apellido VARCHAR(50),
+  codigo INT NOT NULL
+);
