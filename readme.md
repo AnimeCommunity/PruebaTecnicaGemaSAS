@@ -7,6 +7,18 @@ Este proyecto está dividido en dos partes:
 
 ---
 
+## Tiempo Planeado de Solución
+
+El tiempo estimado para el desarrollo completo del proyecto, incluyendo la configuración del entorno, la conexión entre el frontend y backend, y las pruebas de integración, fue de 7 horas
+
+---
+
+## Tiempo Real de Solución
+
+El desarrollo efectivo, desde la configuración del servidor PHP y la base de datos hasta la implementación del frontend en Next.js y las pruebas finales, se completó en aproximadamente 5 horas
+
+---
+
 ## Estructura del repositorio
 
 ```
